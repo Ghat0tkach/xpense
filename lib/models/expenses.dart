@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:yoapp/widgets/expense%20list/expenses_list.dart';
-import 'package:yoapp/widgets/expense_class.dart';
-import 'package:yoapp/widgets/new_expense.dart';
-import 'package:yoapp/widgets/chart/chart.dart';
+import 'package:Xpense/widgets/expense%20list/expenses_list.dart';
+import 'package:Xpense/widgets/expense_class.dart';
+import 'package:Xpense/widgets/new_expense.dart';
+import 'package:Xpense/widgets/chart/chart.dart';
 
 class Expenses extends StatefulWidget {
   const Expenses({super.key});

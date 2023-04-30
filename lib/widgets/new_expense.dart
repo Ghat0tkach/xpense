@@ -1,9 +1,9 @@
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:yoapp/models/expenses.dart';
+import 'package:Xpense/models/expenses.dart';
 
 import 'package:flutter/material.dart';
-import 'package:yoapp/widgets/expense_class.dart';
+import 'package:Xpense/widgets/expense_class.dart';
 
 class NewExpense extends StatefulWidget {
   const NewExpense({super.key, required this.onAddExpense});

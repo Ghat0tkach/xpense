@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:yoapp/models/expenses.dart';
+import 'package:Xpense/models/expenses.dart';
 
 var mycolorschemes = ColorScheme.fromSeed(
   seedColor: (Color.fromRGBO(168, 137, 121, 1)),
