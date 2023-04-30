@@ -1,4 +1,4 @@
-package com.example.yoapp
+package com.example.Xpense
 
 import io.flutter.embedding.android.FlutterActivity
 

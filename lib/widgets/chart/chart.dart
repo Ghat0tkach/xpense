@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:yoapp/widgets/chart/bar.dart';
-import 'package:yoapp/widgets/expense_class.dart';
-import 'package:yoapp/widgets/new_expense.dart';
+import 'package:Xpense/widgets/chart/bar.dart';
+import 'package:Xpense/widgets/expense_class.dart';
+import 'package:Xpense/widgets/new_expense.dart';
 
 class Chart extends StatelessWidget {
   const Chart({super.key, required this.expenses});

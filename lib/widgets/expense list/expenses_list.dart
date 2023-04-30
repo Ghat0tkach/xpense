@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:yoapp/widgets/expense%20list/expense_item.dart';
-import 'package:yoapp/widgets/expense_class.dart';
+import 'package:Xpense/widgets/expense%20list/expense_item.dart';
+import 'package:Xpense/widgets/expense_class.dart';
 
 class ExpensesList extends StatelessWidget {
   const ExpensesList(
